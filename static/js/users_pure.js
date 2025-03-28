@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         th.appendChild(textNode)
         headingTr.appendChild(th)
+        console.log(th)
         
     })
 
